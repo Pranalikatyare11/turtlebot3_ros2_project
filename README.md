@@ -17,3 +17,5 @@ Before getting started, make sure you have installed:
 Clone the repository:
 ```bash
 git clone https://github.com/pranalikatyare11/turtlebot3_ros2_project.git
+![Robot Image](images/robot.jpg)
+
